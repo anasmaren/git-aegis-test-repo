@@ -12,3 +12,6 @@ hello this from amc mini. thrid
 
 hello this from anas fifth
 hello this from anas. sixth
+
+hello this from anas. seventh
+hello this from anas. eight
