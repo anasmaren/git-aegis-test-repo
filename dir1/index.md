@@ -5,3 +5,4 @@
 
 
 hello this from amc mini
+hello this from amc mini. second
